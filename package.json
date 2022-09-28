@@ -1,0 +1,18 @@
+{
+  "name": "72scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "credit score free check ◄ Get Your FREE Credit Score credit score free check, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "credit score free check",
+    "how to boost your credit score fast",
+    "credit card for fair credit score",
+    "which credit score is accurate",
+    "when credit score get updated"
+  ],
+  "repository": "https://github.com/truelestor/72scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
